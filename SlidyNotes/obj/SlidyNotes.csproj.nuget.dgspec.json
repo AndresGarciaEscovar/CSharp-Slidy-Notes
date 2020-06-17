@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\Documents\\01_Personal\\05_OtherDocs\\ScriptAndComputerPrograms\\SlidyNotes\\SlidyNotes\\SlidyNotes.csproj": {}
+    "C:\\Users\\Andre\\Documents\\01_Personal\\02_ResearchDocs\\Github_public\\Portfolio\\CSharp-Slidy-Notes\\SlidyNotes\\SlidyNotes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\Documents\\01_Personal\\05_OtherDocs\\ScriptAndComputerPrograms\\SlidyNotes\\SlidyNotes\\SlidyNotes.csproj": {
+    "C:\\Users\\Andre\\Documents\\01_Personal\\02_ResearchDocs\\Github_public\\Portfolio\\CSharp-Slidy-Notes\\SlidyNotes\\SlidyNotes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\Documents\\01_Personal\\05_OtherDocs\\ScriptAndComputerPrograms\\SlidyNotes\\SlidyNotes\\SlidyNotes.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\Documents\\01_Personal\\02_ResearchDocs\\Github_public\\Portfolio\\CSharp-Slidy-Notes\\SlidyNotes\\SlidyNotes.csproj",
         "projectName": "SlidyNotes",
-        "projectPath": "C:\\Users\\Andre\\Documents\\01_Personal\\05_OtherDocs\\ScriptAndComputerPrograms\\SlidyNotes\\SlidyNotes\\SlidyNotes.csproj",
+        "projectPath": "C:\\Users\\Andre\\Documents\\01_Personal\\02_ResearchDocs\\Github_public\\Portfolio\\CSharp-Slidy-Notes\\SlidyNotes\\SlidyNotes.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\Documents\\01_Personal\\05_OtherDocs\\ScriptAndComputerPrograms\\SlidyNotes\\SlidyNotes\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\Documents\\01_Personal\\02_ResearchDocs\\Github_public\\Portfolio\\CSharp-Slidy-Notes\\SlidyNotes\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -39,7 +39,7 @@
           "dependencies": {
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
-              "version": "[6.2.9, )"
+              "version": "[6.2.10, )"
             }
           },
           "imports": [

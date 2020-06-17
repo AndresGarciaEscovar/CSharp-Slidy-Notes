@@ -1,0 +1,11 @@
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\SlidyNotes.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\App.g.i.cs
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\App.g.cs
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\App.xaml
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\MainPage.xaml
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\App.xbf
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\MainPage.xbf
+C:\Users\Andre\Documents\01_Personal\02_ResearchDocs\Github_public\Portfolio\CSharp-Slidy-Notes\SlidyNotes\obj\ARM\Debug\XamlSaveStateFile.xml

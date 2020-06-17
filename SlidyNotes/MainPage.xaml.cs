@@ -26,5 +26,10 @@ namespace SlidyNotes
         {
             this.InitializeComponent();
         }
+
+        private void ClickMeBttn_Click(object sender, RoutedEventArgs e)
+        {
+            TextBlock.Text = "Hello World.";
+        }
     }
 }
